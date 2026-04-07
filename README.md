@@ -34,14 +34,39 @@ The result: skills that compound. Every use makes them better.
 
 ```bash
 # Clone the repo
-git clone https://github.com/RagnarPitla/self-improving-skills.git
+git clone https://github.com/RagnarPitla/self-improving-skills-by-rbuild.git
+cd self-improving-skills-by-rbuild
 
-# Copy skills to your Claude Code environment
-cp -r self-improving-skills/skills ~/.claude/skills/
+# Run the setup wizard (recommended)
+./setup.sh
 
-# Or use the installer
+# Or just install skills directly
 ./install.sh
+
+# Import your existing skills
+./import-skill.sh ~/path/to/your/skill
 ```
+
+## NEW: Choose Your Evolution Mode
+
+During setup, you'll choose how skills learn:
+
+| Mode | Description | Best For |
+|------|-------------|----------|
+| **A) Post-Execution** | Prompts after every skill run: "Rate 1-5. Update skill?" | Active learners |
+| **B) Wrap-Up** | Reviews all skills at end of session | Batch processors |
+| **C) Manual** | You control when skills evolve | Full control |
+| **D) All Features** | A + B + manual controls | Power users |
+
+## Works With Your Existing Skills
+
+Already have skills? Import them:
+
+```bash
+./import-skill.sh ~/.claude/skills/my-custom-skill
+```
+
+This wraps your skill in the self-improving structure without changing its behavior. Your skill stays the same, but now it can learn and evolve.
 
 ## How It Works
 
@@ -252,7 +277,7 @@ Attribution to Ragnar Pitla / RBuild.ai required in all forks and derivative wor
 <!--
   RBuild.ai Watermark | Do not remove
   Framework: Self-Improving Skills v1.0
-  Origin: https://github.com/RagnarPitla/self-improving-skills
+  Origin: https://github.com/RagnarPitla/self-improving-skills-by-rbuild
   Contact: contact@rbuild.ai
 -->
 
