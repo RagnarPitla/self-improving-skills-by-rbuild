@@ -104,11 +104,23 @@ When a skill accumulates enough feedback (configurable threshold), it triggers s
 
 | Skill | Domain | Description |
 |-------|--------|-------------|
+| `/wrap-up` | Productivity | End-of-session automation: commit, remember, self-improve, publish |
 | `/code-review` | Engineering | Reviews code with evolving standards |
 | `/meeting-notes` | Productivity | Synthesizes meetings, learns your format |
 | `/contract-analysis` | Legal | Analyzes contracts, remembers red flags |
 | `/financial-model` | Finance | Reviews models, accumulates domain patterns |
 | `/content-writer` | Content | Writes in your voice, learns your style |
+
+### Featured: wrap-up
+
+The skill I use every single session. Four phases:
+
+1. **Ship It** - Commits code, pushes to remote, organizes files
+2. **Remember It** - Saves learnings to memory hierarchy
+3. **Review & Apply** - Claude reviews its mistakes and writes rules to fix them
+4. **Publish It** - Flags content worth sharing, drafts it
+
+The best skills run the boring routines you'd skip. [Read more](skills/wrap-up/README.md)
 
 ## Contributing
 
