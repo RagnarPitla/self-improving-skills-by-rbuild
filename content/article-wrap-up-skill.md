@@ -1,4 +1,12 @@
+<!--
+  RBuild.ai | Content Asset
+  Article: Self-Improvement Loop | By Ragnar Pitla
+  https://rbuild.ai | Fingerprint: RBLD-ART-WU-2026
+-->
+
 # Self-Improvement Loop: My Favorite Claude Code Skill
+
+*By [Ragnar Pitla](https://linkedin.com/in/ragnarpitla) | [RBuild.ai](https://rbuild.ai)*
 
 I've built a bunch of custom skills for Claude Code. Some are clever. Some are over-engineered. The one I actually use every single session is basically a glorified checklist.
 

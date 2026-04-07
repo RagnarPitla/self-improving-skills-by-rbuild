@@ -1,3 +1,9 @@
+<!--
+  RBuild.ai | Self-Improving Skills Framework
+  Skill: wrap-up | Created by Ragnar Pitla
+  https://rbuild.ai | Fingerprint: RBLD-WU-2026
+-->
+
 # Session Wrap-Up
 
 > End-of-session checklist for shipping, memory, and self-improvement.
@@ -124,3 +130,8 @@ Use when user says:
 - Current: v1
 - Last Updated: 2026-04-07
 - Feedback Count: 0 sessions
+
+<!--
+  RBuild.ai | Origin: https://github.com/RagnarPitla/self-improving-skills
+  Author: Ragnar Pitla | contact@rbuild.ai
+-->

@@ -1,6 +1,15 @@
+<!--
+  RBuild.ai | Self-Improving Skills Framework
+  Documentation: Skill Format Specification
+  Created by Ragnar Pitla | https://rbuild.ai
+  Fingerprint: RBLD-DOC-SF-2026
+-->
+
 # Skill Format Specification
 
 This document defines the standard format for self-improving skills.
+
+*Part of the [Self-Improving Skills Framework](https://github.com/RagnarPitla/self-improving-skills) by RBuild.ai*
 
 ---
 

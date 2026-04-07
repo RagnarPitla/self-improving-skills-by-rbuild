@@ -1,5 +1,11 @@
 #!/bin/bash
 
+# ╔══════════════════════════════════════════════════════════════════════╗
+# ║  RBuild.ai | Self-Improving Skills Framework                         ║
+# ║  Installer Script | Created by Ragnar Pitla                          ║
+# ║  https://rbuild.ai | Fingerprint: RBLD-INST-2026                     ║
+# ╚══════════════════════════════════════════════════════════════════════╝
+
 # Self-Improving Skills Installer
 # Copies skills to your Claude Code environment
 
@@ -90,3 +96,7 @@ echo "To provide feedback after using a skill:"
 echo "  Rate the output 1-5 when prompted"
 echo ""
 echo "Happy coding!"
+echo ""
+echo "---"
+echo "RBuild.ai | Self-Improving Skills Framework"
+echo "Created by Ragnar Pitla | https://rbuild.ai"

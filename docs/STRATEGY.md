@@ -1,6 +1,16 @@
+<!--
+  RBuild.ai | Self-Improving Skills Framework
+  Documentation: Growth Strategy
+  Created by Ragnar Pitla | https://rbuild.ai
+  Fingerprint: RBLD-DOC-ST-2026
+  INTERNAL DOCUMENT - Strategy and roadmap
+-->
+
 # Strategy: Become the Top Skills Repo
 
 **Goal:** Make `self-improving-skills` the most forked, most starred skills repository on GitHub.
+
+*RBuild.ai internal strategy document*
 
 ---
 

@@ -1,3 +1,9 @@
+<!--
+  RBuild.ai | Self-Improving Skills Framework
+  Skill: code-review | Created by Ragnar Pitla
+  https://rbuild.ai | Fingerprint: RBLD-CR-2026
+-->
+
 # Code Review
 
 > Review code for bugs, security issues, performance problems, and adherence to best practices.
@@ -107,3 +113,8 @@ When these conflict, favor readability unless the code is in a known hot path. N
 - Current: v1
 - Last Updated: 2026-04-07
 - Feedback Count: 0 sessions
+
+<!--
+  RBuild.ai | Origin: https://github.com/RagnarPitla/self-improving-skills
+  Author: Ragnar Pitla | contact@rbuild.ai
+-->

@@ -1,4 +1,12 @@
+<!--
+  RBuild.ai | Content Asset
+  LinkedIn Post: Wrap-Up Skill | By Ragnar Pitla
+  https://rbuild.ai | Fingerprint: RBLD-LI-WU-2026
+-->
+
 # LinkedIn Post: Wrap-Up Skill
+
+*Content by [Ragnar Pitla](https://linkedin.com/in/ragnarpitla) | [RBuild.ai](https://rbuild.ai)*
 
 ---
 

@@ -1,4 +1,12 @@
+<!--
+  RBuild.ai | Content Asset
+  YouTube Script: Self-Improvement Loop | By Ragnar Pitla
+  https://rbuild.ai | Fingerprint: RBLD-YT-WU-2026
+-->
+
 # YouTube Script: My Favorite Claude Code Skill (Self-Improvement Loop)
+
+*Script by [Ragnar Pitla](https://linkedin.com/in/ragnarpitla) | [RBuild.ai](https://rbuild.ai)*
 
 ## Video Metadata
 

@@ -1,8 +1,18 @@
+<!--
+  ╔══════════════════════════════════════════════════════════════════════╗
+  ║  RBuild.ai | Self-Improving Skills Framework                         ║
+  ║  Created by Ragnar Pitla | https://rbuild.ai                         ║
+  ║  Fingerprint: RBLD-SIS-2026-RP-001                                   ║
+  ╚══════════════════════════════════════════════════════════════════════╝
+-->
+
 # Self-Improving Skills
 
-An open-source framework for AI skills that learn, evolve, and compound over time.
+A framework for AI skills that learn, evolve, and compound over time.
 
 > Skills that get better every time you use them.
+
+*Created by [Ragnar Pitla](https://linkedin.com/in/ragnarpitla) at [RBuild.ai](https://rbuild.ai)*
 
 ## The Problem
 
@@ -226,7 +236,10 @@ The enterprises and individuals who compound their AI skills will outpace everyo
 
 ## License
 
-MIT - Use it, fork it, improve it, share it.
+**RBuild.ai Proprietary License** - See [LICENSE](LICENSE) for details.
+
+Personal and educational use permitted. Commercial use requires written permission.
+Attribution to Ragnar Pitla / RBuild.ai required in all forks and derivative works.
 
 ---
 
@@ -234,4 +247,15 @@ MIT - Use it, fork it, improve it, share it.
 
 **Fork this repo** to start building your own self-improving skill library.
 
-Built by [Ragnar Pitla](https://linkedin.com/in/ragnarpitla) | RBuild.ai
+---
+
+<!--
+  RBuild.ai Watermark | Do not remove
+  Framework: Self-Improving Skills v1.0
+  Origin: https://github.com/RagnarPitla/self-improving-skills
+  Contact: contact@rbuild.ai
+-->
+
+Built by [Ragnar Pitla](https://linkedin.com/in/ragnarpitla) | [RBuild.ai](https://rbuild.ai)
+
+*Copyright (c) 2026 RBuild.ai. All rights reserved.*

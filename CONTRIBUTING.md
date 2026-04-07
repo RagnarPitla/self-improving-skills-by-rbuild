@@ -1,6 +1,14 @@
+<!--
+  RBuild.ai | Self-Improving Skills Framework
+  Contributing Guidelines | Created by Ragnar Pitla
+  https://rbuild.ai | Fingerprint: RBLD-CONTRIB-2026
+-->
+
 # Contributing to Self-Improving Skills
 
 Thanks for your interest in contributing! This project grows through community input.
+
+*A [RBuild.ai](https://rbuild.ai) project by [Ragnar Pitla](https://linkedin.com/in/ragnarpitla)*
 
 ## Ways to Contribute
 
